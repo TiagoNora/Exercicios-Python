@@ -1,0 +1,8 @@
+algo = input('Digite algo: ')
+print(f'{algo} é um ', type(algo))
+print(f'{algo} tem espaços: ', algo.isspace())
+print(f'{algo} é alfanumerico:', algo.isalnum())
+print(f'{algo} é um número: ', algo.isnumeric())
+print(f'{algo} é alfabético: ', algo.isalpha())
+print(f'{algo} é minusculo: ', algo.islower())
+print(f'{algo} é maisculo: ', algo.isupper())
