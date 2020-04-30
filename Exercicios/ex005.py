@@ -1,4 +1,4 @@
-n = int(input('Digite um número: '))
-antecessor = n - 1
-sucessor = n + 1
-print(f'O antecessor e o sucessor do numero {n} é respetivamente {antecessor} e {sucessor}')
+numero = int(input('Digite um número: '))
+antecessor = numero - 1
+sucessor = numero + 1
+print(f'O antecessor e o sucessor do numero {numero} é respetivamente {antecessor} e {sucessor}')
