@@ -1,3 +1,4 @@
+#Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 m = int(input('Digite uma medida: '))
 dm = m * 10
 cm = m * 100
