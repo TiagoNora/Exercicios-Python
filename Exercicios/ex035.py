@@ -1,3 +1,5 @@
+#Desenvolva um programa que leia o comprimento de três retas
+#E diga ao usuário se elas podem ou não formar um triângulo.
 s1 = int(input('Digite  valor do primeiro segmento: '))
 s2 = int(input('Digite  valor do segundo segmento: '))
 s3 = int(input('Digite  valor do terceiro segmento: '))
