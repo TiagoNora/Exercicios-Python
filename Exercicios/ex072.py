@@ -1,3 +1,4 @@
+#Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte.
 extenso = ('Zero', 'Um', 'Dois', 'Três', 'Quatro','Cinco','Seis','Sete','Oito','Nove','Dez',
            'Onze','Doze', 'Treze', 'Quatorze', 'Quinze', 'Dezasseis', 'Dezassete', 'Dezoito', 'Dezanove', 'Vinte')
 while True:
