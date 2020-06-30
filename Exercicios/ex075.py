@@ -18,4 +18,4 @@ for num in numeros:
 if cont > 1 and cont == 0:
     print(f'Dos 4 numeros digitados {cont} são pares.')
 else:
-    print(f'Dos 4 numeros digitado só 1 dos números é que é par.)
+    print(f'Dos 4 numeros digitado só 1 dos números é que é par.')
