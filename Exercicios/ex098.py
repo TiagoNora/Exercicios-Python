@@ -23,6 +23,7 @@ def contador(i, f, p):
     else:
         print('Contador impossivel de ser realizado')
 
+
 contador(1, 10, 1)
 contador(10, 0, -1)
 
